@@ -16,6 +16,8 @@ A simple yet powerful macOS menubar application that displays your Dexcom G7 CGM
 
 Perfect for people with diabetes who want quick access to their glucose data without opening the Dexcom app!
 
+![Dexcom Menubar Screenshot](screenshots/menubar-screenshot.png)
+
 ## Features
 
 - **Live Glucose Display**: Shows current glucose value and trend arrow in the menubar

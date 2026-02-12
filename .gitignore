@@ -60,3 +60,6 @@ htmlcov/
 # Application-specific
 # User credentials (stored in macOS Keychain, not in files)
 credentials.json
+# Screenshots for documentation
+!screenshots/
+!screenshots/*.png
