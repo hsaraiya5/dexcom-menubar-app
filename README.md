@@ -73,7 +73,7 @@ That's it! Your glucose readings will now appear in your menubar. 🎉
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dexcom-menubar-app.git
+git clone https://github.com/hsaraiya5/dexcom-menubar-app.git
 cd dexcom-menubar-app
 ```
 
