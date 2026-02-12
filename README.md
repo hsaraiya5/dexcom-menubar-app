@@ -41,7 +41,7 @@ Perfect for people with diabetes who want quick access to their glucose data wit
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/dexcom-menubar-app.git
+git clone https://github.com/hsaraiya5/dexcom-menubar-app.git
 cd dexcom-menubar-app
 
 # Set up virtual environment and install dependencies
