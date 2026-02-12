@@ -1,0 +1,4 @@
+rumps>=0.4.0
+requests>=2.31.0
+keyring>=24.3.0
+python-dateutil>=2.8.2
